@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kisisel_Site.Domain\Kisisel_Site.Domain.csproj" />
+    <ProjectReference Include="..\Kisisel-Site.Domain\Kisisel-Site.Domain.csproj" />
   </ItemGroup>
 
 </Project>

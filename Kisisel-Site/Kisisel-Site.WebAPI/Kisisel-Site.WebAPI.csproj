@@ -18,9 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kisisel_Site.Application\Kisisel_Site.Application.csproj" />
-    <ProjectReference Include="..\Kisisel_Site.Domain\Kisisel_Site.Domain.csproj" />
-    <ProjectReference Include="..\Kisisel_Site.Infrastructure\Kisisel_Site.Infrastructure.csproj" />
+    <ProjectReference Include="..\Kisisel-Site.Application\Kisisel-Site.Application.csproj" />
+    <ProjectReference Include="..\Kisisel-Site.Domain\Kisisel-Site.Domain.csproj" />
+    <ProjectReference Include="..\Kisisel-Site.Infrastructure\Kisisel-Site.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
